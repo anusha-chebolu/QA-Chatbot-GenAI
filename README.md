@@ -1,1 +1,1 @@
-# Q-A-Chatbot-GenAI
+# QA-Chatbot-GenAI
